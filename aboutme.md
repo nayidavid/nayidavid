@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nayidavid
+- 👀 I’m interested in data, machine learning, physics and philosophy
+- 🌱 I’m currently learning Mathematics and Computational Science
